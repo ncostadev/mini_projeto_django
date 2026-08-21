@@ -1,0 +1,12 @@
+/*Configurações gerais */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* Hero */
+.hero {
+    padding: 80px 0;
+    background-color: #c50e0e;
+}
